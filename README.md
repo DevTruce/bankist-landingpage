@@ -55,13 +55,9 @@
 [![bankist-landingPage][product-screenshot2]](product-link)
 [![bankist-landingPage][product-screenshot3]](product-link)
 The Bankist landing page project was very fun to develop and it has some great
-features like a modal window, carousel and lazy loading! This is NOT a real app!
+features like a modal window, carousel, sticky nav and lazy loading! This is NOT a real app!
 This was a learning project that helped to solidify current concepts as well and
 take on and learn new concepts.
-
-- modal window
-- lazy loading
-- carousel
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
