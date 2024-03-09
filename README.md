@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DevTruce/bankist-landingPage">
-    <img src="src/imgs/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/imgs/icon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Bankist Landing Page</h3>
@@ -51,12 +51,17 @@
 
 ## About The Project
 
-W.I.P
+[![bankist-landingPage][product-screenshot1]](product-link)
+[![bankist-landingPage][product-screenshot2]](product-link)
+[![bankist-landingPage][product-screenshot3]](product-link)
+The Bankist landing page project was very fun to develop and it has some great
+features like a modal window, carousel and lazy loading! This is NOT a real app!
+This was a learning project that helped to solidify current concepts as well and
+take on and learn new concepts.
 
-<!--
-[![bankist-landingPage User1 Screen Shot][product-screenshot2]](product-link)
-[![bankist-landingPage User2 Screen Shot][product-screenshot3]](product-link)
-[![bankist-landingPage Login Screen Shot][product-screenshot1]](product-link) -->
+- modal window
+- lazy loading
+- carousel
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,9 +113,9 @@ Discord: [xzypher.]()
 
 <!-- ## Project ## -->
 
-[product-screenshot1]: src/imgs/1.png
-[product-screenshot2]: src/imgs/2.png
-[product-screenshot3]: src/imgs/3.png
+[product-screenshot1]: src/imgs/product-screenshot1.png
+[product-screenshot2]: src/imgs/product-screenshot2.png
+[product-screenshot3]: src/imgs/product-screenshot3.png
 [product-link]: https://devtruce.github.io/bankist-landingPage/
 
 <!-- ## Tech & Tools ## -->

@@ -134,7 +134,7 @@ const sectionObserver = new IntersectionObserver(revealSection, {
 });
 allSections.forEach(function (section) {
   sectionObserver.observe(section);
-  // section.classList.add("section--hidden");
+  section.classList.add("section--hidden");
 });
 
 ////////////////////////////////////////////////////////////////
@@ -252,6 +252,3 @@ const sliders = function () {
 };
 
 sliders();
-
-////////////////////////////////////////////////////////////////
-////
