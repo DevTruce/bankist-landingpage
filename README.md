@@ -59,6 +59,8 @@ features like a modal window, carousel, sticky nav and lazy loading! This is NOT
 This was a learning project that helped to solidify current concepts as well and
 take on and learn new concepts.
 
+**Desktop ONLY!**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
