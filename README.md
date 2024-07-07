@@ -1,0 +1,2 @@
+# bankist-landingpage
+learninig project
