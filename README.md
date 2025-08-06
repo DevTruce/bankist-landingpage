@@ -26,6 +26,14 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
+## Details
+This project focuses on clean layout structure, smooth scrolling, section reveal animations, and a sleek mobile-friendly design.
+
+#### Key Features: 
+- Responsive layout built with HTML and CSS (Flexbox & Grid)
+- Sticky navigation bar and scroll based animations
+- Smooth page navigation using JavaScript
+- Lazy loading images and tabbed components
 
 ## Screenshots
 
