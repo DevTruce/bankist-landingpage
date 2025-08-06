@@ -18,7 +18,7 @@
 <h3 align="center">Bankist Landing Page</h3>
 
   <p align="center">
-    modern, responsive landing page for a fictional banking service.
+    modern and responsive landing page for a fictional banking service.
     <br />
     <br />
     <a href="https://devtruce.github.io/bankist-landingPage/" target="_blank">View Demo</a>
