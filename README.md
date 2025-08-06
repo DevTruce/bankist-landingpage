@@ -21,7 +21,7 @@
     modern and responsive landing page for a fictional banking service.
     <br />
     <br />
-    <a href="https://devtruce.github.io/bankist-landingPage/" target="_blank">View Demo</a>
+    <a href="https://devtruce.github.io/bankist-landingpage/" target="_blank">View Demo</a>
   </p>
 </div>
 
